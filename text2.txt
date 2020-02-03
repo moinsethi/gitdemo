@@ -1,1 +1,2 @@
 text 2 is dummy file
+adding new line in branch4 when line added via branch3 has not been mergeed to local but remote.
