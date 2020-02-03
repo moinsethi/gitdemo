@@ -1,6 +1,7 @@
 text 2 is dummy file
 Added this line for feature/branch3
 adding new line in branch4 when line added via branch3 has not been mergeed to local but remote.
+removed line added via branch5 and added this in brabch6
 
 
 
